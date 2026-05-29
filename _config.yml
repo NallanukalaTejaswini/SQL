@@ -1,3 +1,3 @@
-remote_theme: just-the-docs/just-the-docs
+theme: minima
 title: SQL Learning Guide
-description: A 7-Day SQL Learning Journey
+description: A structured 7-day SQL learning journey — from foundations to advanced concepts.
