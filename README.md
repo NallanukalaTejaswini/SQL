@@ -1,4 +1,3 @@
-# SQL Learning Guide
 
 A structured 7-day SQL learning journey — from foundations to advanced concepts.
 
