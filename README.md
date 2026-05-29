@@ -1,4 +1,3 @@
-
 A structured 7-day SQL learning journey — from foundations to advanced concepts.
 
 ---
@@ -7,13 +6,13 @@ A structured 7-day SQL learning journey — from foundations to advanced concept
 
 | Day | Topic |
 |-----|-------|
-| [Day 1](Day_01_SQL_Foundations.md) | SQL Foundations |
-| [Day 2](Day_02_Joins_and_Relationships.md) | Joins and Relationships |
-| [Day 3](Day_03_Aggregation_Subqueries.md) | Aggregation and Subqueries |
+| [Day 1](Day_01_SQL_Foundations-1.md) | SQL Foundations |
+| [Day 2](Day_02_Joins_and_Relationships-1.md) | Joins and Relationships |
+| [Day 3](Day_03_Aggregation_Subqueries_CTEs.md) | Aggregation, Subqueries and CTEs |
 | [Day 4](Day_04_Window_Functions.md) | Window Functions |
 | [Day 5](Day_05_Indexes_and_Query_Optimization.md) | Indexes and Query Optimization |
-| [Day 6](Day_06_Transactions_Normalization.md) | Transactions and Normalization |
-| [Day 7](Day_07_Advanced_SQL.md) | Advanced SQL |
+| [Day 6](Day_06_Transactions_Normalization_Schema.md) | Transactions, Normalization and Schema |
+| [Day 7](Day_07_Advanced_SQL_Interview_Master.md) | Advanced SQL and Interview Prep |
 
 ---
 
@@ -28,4 +27,4 @@ A structured 7-day SQL learning journey — from foundations to advanced concept
 Start from Day 1 and progress daily. Each day builds on the previous one.
 
 ---
-By Tejaswini Nallanukala
+Made by NallanukalaTejaswinni
